@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quohhepoob.bootgeeks.com/sitemap.xml
